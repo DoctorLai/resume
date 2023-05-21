@@ -1,4 +1,4 @@
 # My Resume / CV
 Also available at:
 - https://zhihua-lai.com
-- https://github.com/doctorlai
+- [MSRC](https://www.microsoft.com/en-us/research/people/zhihualai/)
