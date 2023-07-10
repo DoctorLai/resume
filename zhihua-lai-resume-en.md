@@ -148,6 +148,7 @@ Open Source
 
 Selected Publications
 ---------------------
+* [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493), In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA, 16 pages. [https://doi.org/10.1145/3570361.3592493](https://doi.org/10.1145/3570361.3592493)
 * [Taking 5G RAN Analytics and Control to a New Level](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf), Technical Report | December 2022
 * Chapter 2 - Radio Propagation Modelling, in Book "Heterogeneous Cellular Networks: Theory, Simulation and Deployment", Cambridge University Press, 2012.
 * Chapter 5 - Outdoor-Indoor Channel, in Book "LTE-Advanced and Next Generation Wireless Networks: Channel Modelling and Propagation", John Wiley & Sons, November, 2012.
@@ -171,6 +172,7 @@ Worth mentioning
 * I run [\@dailychina](https://steemd.com/@dailychina) where the algorithms select top 10 quality posts and reward them daily (very popular and postive feedbacks received).
 * I develop [\@fairlottery](https://steemit.com/fairlottery/@fairlottery/readme) (Blockchain Lottery) and [\@witnesstools](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum) (Steem Blockchain Gambling).
 * I write discord/telegram bots that distribute test coins (TRX, USDT, USDC, USDD) on Tron Blockchain (Shasta and Nile Test Net).
+* I develop and run Simple Token Swap Tools on Multiple blockchains: [steem2bts](https://steemyy.com/steem2bts.php), [steem2trx](https://steemyy.com/steem2trx.php) and [steem2usdt](https://steemyy.com/steem2usdt.php).
 
 My Other Activities
 -------------------
