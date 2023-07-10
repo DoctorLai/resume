@@ -124,7 +124,8 @@ GIS软件核心团队。Java, C++ 和 Magik 编译器优化。在加入GE第三�
 
 精选著作/文章
 ---------
-
+* Taking 5G RAN Analytics and Control to a New Level, In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA, 16 pages. https://doi.org/10.1145/3570361.3592493
+* Taking 5G RAN Analytics and Control to a New Level, Technical Report | December 2022
 * Chapter 2 - Radio Propagation Modelling, in Book "Heterogeneous Cellular Networks: Theory, Simulation and Deployment", Cambridge University Press, 2012.
 * Chapter 5 - Outdoor-Indoor Channel, in Book "LTE-Advanced and Next Generation Wireless Networks: Channel Modelling and Propagation", John Wiley & Sons, November, 2012.
 * Intelligent Ray Launching Algorithm for Indoor Scenarios, Radioengineering, Towards EUCAP 2012: Emerging Materials, Methods, and Technologies in Antenna & Propagation, Volume 20, Number 2, 2011, ISSN: 1210-2512, p.p.:398-408.
