@@ -31,6 +31,7 @@ Job Experience
 
 * Technology: Linux (BASH), C, C++, eBPF, 4G/5G, O-RAN, Azure (AKS, K8S, Azure Functions, Service Bus, Pipeline ...), Python, Go, C#, NodeJS, Rust etc.
 * Microsoft Technical Report: [Taking 5G RAN Analytics and Control to a New Level](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf), December 2022
+* ACM MobiCom'23: [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493)
 
 **Software Development Engineer** at ***Amazon AWS (Cambridge, UK)*** 
 2020/01 to 2021/07: SDE (L5) = Someone Does Everything = Full Stack Software Engineer + On-Call Duties
