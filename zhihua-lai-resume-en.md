@@ -173,6 +173,7 @@ Worth mentioning
 * I develop [\@fairlottery](https://steemit.com/fairlottery/@fairlottery/readme) (Blockchain Lottery) and [\@witnesstools](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum) (Steem Blockchain Gambling).
 * I write discord/telegram bots that distribute test coins (TRX, USDT, USDC, USDD) on Tron Blockchain (Shasta and Nile Test Net).
 * I develop and run Simple Token Swap Tools on Multiple blockchains: [steem2bts](https://steemyy.com/steem2bts.php), [steem2trx](https://steemyy.com/steem2trx.php) and [steem2usdt](https://steemyy.com/steem2usdt.php).
+* I develop and run Account Registration Services on Steem Blockchain: [Register a Free Account on Steem Blockchain](https://steemyy.com/reg.php).
 
 My Other Activities
 -------------------
