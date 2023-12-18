@@ -32,6 +32,8 @@ Job Experience
 * Technology: Linux (BASH), C, C++, eBPF, 4G/5G, O-RAN, Azure (AKS, K8S, Azure Functions, Service Bus, Pipeline ...), Python, Go, C#, NodeJS, Rust etc.
 * Microsoft Technical Report: [Taking 5G RAN Analytics and Control to a New Level](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf), December 2022
 * ACM MobiCom'23: [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493)
+* ACM MobiCom'23: (*[Best Demo Award Runner-Up](https://sigmobile.org/mobicom/2023/posters.html)*), [Programmable RAN Platform for Flexible Real-Time Control and Telemetry](https://dl.acm.org/doi/pdf/10.1145/3570361.3614065)
+* ACM MobiCom'23: [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745)
 
 **Software Development Engineer** at ***Amazon AWS (Cambridge, UK)*** 
 2020/01 to 2021/07: SDE (L5) = Someone Does Everything = Full Stack Software Engineer + On-Call Duties
@@ -128,7 +130,7 @@ I have developed/maintained the Serverless Load Balancers for STEEM Blockchain (
     * https://x68bp3mesd.execute-api.ap-northeast-1.amazonaws.com/release
     * https://e51ewpb9dk.execute-api.us-east-1.amazonaws.com/release
 - Microsoft Azure Function
-    * [https://justyy.azurewebsites.net/api/steem](https://justyy.azurewebsites.net/api/steem)
+    * https://justyy.azurewebsites.net/api/steem
 - Cloudflare Worker
     * [https://steem.senior.workers.dev](https://steem.senior.workers.dev)
 
@@ -149,6 +151,8 @@ Open Source
 
 Selected Publications
 ---------------------
+* [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745), In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA. [https://doi.org/10.1145/3570361.3615745](https://doi.org/10.1145/3570361.3615745)
+* [Programmable RAN Platform for Flexible Real-Time Control and Telemetry](https://dl.acm.org/doi/pdf/10.1145/3570361.3614065), In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA. [https://doi.org/10.1145/3570361.3614065](https://doi.org/10.1145/3570361.3614065) - **[Best Demo Award Runner-Up](https://sigmobile.org/mobicom/2023/posters.html)**
 * [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493), In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA, 16 pages. [https://doi.org/10.1145/3570361.3592493](https://doi.org/10.1145/3570361.3592493)
 * [Taking 5G RAN Analytics and Control to a New Level](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf), Technical Report | December 2022
 * Chapter 2 - Radio Propagation Modelling, in Book "Heterogeneous Cellular Networks: Theory, Simulation and Deployment", Cambridge University Press, 2012.
@@ -173,8 +177,9 @@ Worth mentioning
 * I run [\@dailychina](https://steemd.com/@dailychina) where the algorithms select top 10 quality posts and reward them daily (very popular and postive feedbacks received).
 * I develop [\@fairlottery](https://steemit.com/fairlottery/@fairlottery/readme) (Blockchain Lottery) and [\@witnesstools](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum) (Steem Blockchain Gambling).
 * I write discord/telegram bots that distribute test coins (TRX, USDT, USDC, USDD) on Tron Blockchain (Shasta and Nile Test Net).
-* I develop and run Simple Token Swap Tools on Multiple blockchains: [steem2bts](https://steemyy.com/steem2bts.php), [steem2trx](https://steemyy.com/steem2trx.php) and [steem2usdt](https://steemyy.com/steem2usdt.php).
+* I develop and run Simple Token Swap Tools on Multiple blockchains: [Steem To Ethereum](https://steemyy.com/steem2eth.php), [Steem to Bitshares](https://steemyy.com/steem2bts.php), [Steem to TRON](https://steemyy.com/steem2trx.php) and [Steem to USDT](https://steemyy.com/steem2usdt.php).
 * I develop and run Account Registration Services on Steem Blockchain: [Register a Free Account on Steem Blockchain](https://steemyy.com/reg.php).
+* I develop the [Steem Blockchain Explorer](https://steemyy.com/block.php).
 
 My Other Activities
 -------------------
