@@ -177,7 +177,7 @@ Worth mentioning
 * I run [\@dailychina](https://steemd.com/@dailychina) where the algorithms select top 10 quality posts and reward them daily (very popular and postive feedbacks received).
 * I develop [\@fairlottery](https://steemit.com/fairlottery/@fairlottery/readme) (Blockchain Lottery) and [\@witnesstools](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum) (Steem Blockchain Gambling).
 * I write discord/telegram bots that distribute test coins (TRX, USDT, USDC, USDD) on Tron Blockchain (Shasta and Nile Test Net).
-* I develop and run Simple Token Swap Tools on Multiple blockchains: [Steem To Ethereum](https://steemyy.com/steem2eth.php), [Steem to Bitshares](https://steemyy.com/steem2bts.php), [Steem to TRON](https://steemyy.com/steem2trx.php) and [Steem to USDT](https://steemyy.com/steem2usdt.php).
+* I develop and run Simple Token Swap Tools on Multiple blockchains (Cross Chains Token Swap Tools): [Steem To Solana](https://steemyy.com/steem2sol.php), [Steem To Ethereum](https://steemyy.com/steem2eth.php), [Steem to Bitshares](https://steemyy.com/steem2bts.php), [Steem to TRON](https://steemyy.com/steem2trx.php) and [Steem to USDT](https://steemyy.com/steem2usdt.php).
 * I develop and run Account Registration Services on Steem Blockchain: [Register a Free Account on Steem Blockchain](https://steemyy.com/reg.php).
 * I develop the [Steem Blockchain Explorer](https://steemyy.com/block.php).
 
