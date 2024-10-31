@@ -105,19 +105,19 @@ Education and Awards
 --------------------
 
 2006-2010
-:   **PhD, Computer Science and Wireless**; University of Bedfordshire (UK)
+**PhD, Computer Science and Wireless**; University of Bedfordshire (UK)
 
-    *Thesis title: The Development of an Intelligent Ray Launching Algorithm for Wireless Network Planning*
+*Thesis title: The Development of an Intelligent Ray Launching Algorithm for Wireless Network Planning*
      
-    - *2013*: Top 30 iPinyou Global RTB Bidding Algorithm Contest (season two offline) (rule based Simulate Annealing heuristic algorithm)\
-    - *2009*: Marie Curie Fellowship for Transfer of Knowledge by University of Applied Sciences of Western Switzerland
+- *2013*: Top 30 iPinyou Global RTB Bidding Algorithm Contest (season two offline)
+- *2009*: Marie Curie Fellowship for Transfer of Knowledge by University of Applied Sciences of Western Switzerland
 
 2004-2006
-:   **BSc, Computer Science (First Class, Score 15.51 out of 16)**; University of Luton (UK)
+**BSc, Computer Science (First Class, Score 15.51 out of 16)**; University of Luton (UK)
     
-    *Thesis title: Chinese Chess*
+*Thesis title: Chinese Chess*
     
-    - *2004*: National Computer Rank Programming Contest, Top 30 by National Education Examinations & China Education
+- *2004*: National Computer Rank Programming Contest, Top 30 by National Education Examinations & China Education
 
 Open Source Projects
 --------------------
