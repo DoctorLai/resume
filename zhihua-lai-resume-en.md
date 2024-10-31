@@ -175,6 +175,7 @@ Worth mentioning
 * I develop and run Simple Token Swap Tools on Multiple blockchains: 
   * [Tron/USDT/USDD/TRX to STEEM](https://steemyy.com/tron2steem.php)
   * [Steem to Ethereum](https://steemyy.com/steem2eth.php)
+  * [Steem to Solana](https://steemyy.com/steem2sol.php)
   * [Steem to Bitshares](https://steemyy.com/steem2bts.php)
   * [Steem to TRON](https://steemyy.com/steem2trx.php)
   * [Steem to USDT](https://steemyy.com/steem2usdt.php)
