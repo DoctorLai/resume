@@ -3,7 +3,7 @@ Zhihua Lai (PhD)
 
 > Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC), A Top 3 Steem Blockchain Witness (Block Producer), Ex-Amazon/Ex-General-Electric. Passionate for Algorithms, Blockchain and Cloud (ABC).
 
-**Version** 2024-10-31
+**Version** 2024-10-31 (Please Read **First Two Pages** if you don't have time)
 > [@ MSRC](https://www.microsoft.com/en-us/research/people/zhihualai/)
 > [Github @ DoctorLai](https://github.com/doctorlai)
 > Personal Page: [https://zhihua-lai.com](https://zhihua-lai.com) 
@@ -104,12 +104,11 @@ Patents
 Education and Awards
 --------------------
 
-2006-2010
+2006-2010 (Three and Half Years)
 **PhD, Computer Science and Wireless**; University of Bedfordshire (UK)
 
 *Thesis title: The Development of an Intelligent Ray Launching Algorithm for Wireless Network Planning*
      
-- *2013*: Top 30 iPinyou Global RTB Bidding Algorithm Contest (season two offline)
 - *2009*: Marie Curie Fellowship for Transfer of Knowledge by University of Applied Sciences of Western Switzerland
 
 2004-2006
@@ -164,6 +163,7 @@ Selected Publications
 
 Worth mentioning 
 ---------------------
+* Ranked Top 30 iPinyou Global RTB Bidding Algorithm Contest (season two offline, 2013)
 * My propagation model 'IRLA' has been cited in the book "Femtocells - Technologies and Deployment", John Wiley & Sons, ISBN: 978-0-470-74298-3. 
 * I write highly-optimized code (which uses less memory and executes faster). For example, for Problem 1532 on ACM Timus Online Judge, my submission ranks the second. The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds. [http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100](http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100)
 * I run a delegated service on steem blockchain [\@justyy](https://steemd.com/@justyy) where Steemians delegate their Steem Power to me and my bots send out the Steem Dollars (tokens) at a rate of 8% to 10%. Also my bots are up running 24/7 to vote the quality posts of the delegatees. 
@@ -186,10 +186,12 @@ Worth mentioning
 My Other Activities
 -------------------
 * 2019-11 to 2019-12: I taught the course *Microbit Programming* at weekends in Chesterton Community Colleage (organised by Chinese Family Together and Hacklab Cambridge) to kids (8 yrs+). 
-* I teach my sons programming videos which are uploaded to youtube: [https://zhihua-lai.com/teaching/](https://zhihua-lai.com/teaching/)
+* I teach my sons programming videos (700+) which are uploaded to youtube: [https://zhihua-lai.com/teaching/](https://zhihua-lai.com/teaching/)
 
 > <dr.zhihua.lai [AT] gmail.com> • +44 (0)7939518997 \
-> **Indefinitely Leave to Remain** - address - Cambridge, UK
+> **Indefinitely Leave to Remain** - address - Cambridge, UK\
+> Open to relocation\
+> Clean UK Driving License (12 Years +)
 
 Linkedin: [https://www.linkedin.com/in/doctorlai/](https://www.linkedin.com/in/doctorlai/) \
 Reference provided on requests.
