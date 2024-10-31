@@ -29,9 +29,17 @@
      * 我在区块链上开发了 [\@fairlottery 彩票](https://steemit.com/fairlottery/@fairlottery/readme) 和 [\@witnesstools 赌场游戏](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum)
 * 我的CHROME扩展: [视频下载利器](https://chrome.google.com/webstore/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj) 有2万多用户了。
 * 我开发和维护在波场Shasta/Nile测试网上的发币水龙头(TRX, USDC, USDT, USDD测试币)
-* 我开发和维护了几个STEEM跨链代币兑换服务/Cross Chains Token Swap Tools: [Steem To Solana 索拉纳](https://steemyy.com/steemit-tools/steem2sol.php), [Steem To Ethereum 以太网](https://steemyy.com/steemit-tools/steem2eth.php), [Steem to Bitshares 比特股](https://steemyy.com/steemit-tools/steem2bts.php), [Steem to TRON 波场](https://steemyy.com/steemit-tools/steem2trx.php) and [Steem to USDT 泰达币](https://steemyy.com/steemit-tools/steem2usdt.php).
+* 我开发和维护了几个STEEM跨链代币兑换服务: , ,  and 
+* 我开发和维护了几个STEEM跨链代币兑换服务: 
+  * [波场币 Tron/USDT/USDD/TRX to STEEM](https://steemyy.com/steemit-tools/tron2steem.php)
+  * [Steem To Ethereum 以太网](https://steemyy.com/steemit-tools/steem2eth.php)
+  * [Steem to Solana 索洛纳](https://steemyy.com/steemit-tools/steem2sol.php)
+  * [Steem to Bitshares 比特股](https://steemyy.com/steemit-tools/steem2bts.php)
+  * [Steem to TRON 波场](https://steemyy.com/steemit-tools/steem2trx.php)
+  * [Steem to USDT 泰达币](https://steemyy.com/steemit-tools/steem2usdt.php)
 * 我开发和维护了在STEEM区块链上的帐号注册服务: [免费注册一个STEEM帐号](https://steemyy.com/steemit-tools/reg.php).
 * 我开发和维护了STEEM区块链浏览器 [Steem Block Explorer](https://steemyy.com/steemit-tools/block.php)
+* 我开发和维护了[STEEM代币的出租/租赁服务](https://steemyy.com/steemit-tools/rent-sp.php).
 ----
 
 > <dr.zhihua.lai [AT] gmail.com> • +44 (0)7939518997 • \
