@@ -3,7 +3,7 @@ Zhihua Lai (PhD)
 
 > Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC), A Top 3 Steem Blockchain Witness (Block Producer), Ex-Amazon/Ex-General-Electric. Passionate for Algorithms, Blockchain and Cloud (ABC).
 
-**Profiles**
+**Version** 2024-10-31
 > [@ MSRC](https://www.microsoft.com/en-us/research/people/zhihualai/)
 > [Github @ DoctorLai](https://github.com/doctorlai)
 > Personal Page: [https://zhihua-lai.com](https://zhihua-lai.com) 
@@ -16,19 +16,16 @@ During the employment with General Electric, I have added the \_while loop, regu
 
 During the employment with Ranplan Wireless, I have designed and implemented the cutting-edge Intelligent Radiowave Propagation Engine that is pushed to its limits by using Win32 inline Assembly in the core. See [https://ranplanwireless.com/](https://ranplanwireless.com/)
 
-Over the years, I am passionate about computer algorithms, and I have quite a few patents on intelligent radiowave propagation algorithms. I am quick to learn, determined to tasks and work efficiently in design, implement, test and document.
-
 In High School (2002), I have won the third prize on NOI programming contest i.e. National Olympiad Informatics.
 
 I am a [TOP 3 Witness](https://steemyy.com/witness-ranking/) aka Block Producer of the Steem Blockchain. I am beknown for the contributions (infrastructure, tools, API and services) to the Steem Blockchain. See [https://steemyy.com](https://steemyy.com)
-
-At my spare time, I contribute to open source projects such as Tron Blockchain (java-tron), Ledger Wallet (app-tron C) and Steem Blockchain (steemd C++).  
 
 Job Experience
 --------------
 **Senior Software Engineer** at ***Microsoft (Cambridge, UK)*** 
 2021/07 to Present: [AFO (Azure For Operators)](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/), [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/)
 
+* Open Source: [microsoft/jbpf](https://github.com/microsoft/jbpf) - [Github @ DoctorLai-MSRC](https://github.com/doctorlai-msrc)
 * Technology: Linux (BASH), C, C++, eBPF, 4G/5G, O-RAN, Azure (AKS, K8S, Azure Functions, Service Bus, Pipeline ...), Python, Go, C#, NodeJS, Rust etc.
 * Microsoft Technical Report: [Taking 5G RAN Analytics and Control to a New Level](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf), December 2022
 * ACM MobiCom'23: [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493)
@@ -122,10 +119,11 @@ Education and Awards
     
     - *2004*: National Computer Rank Programming Contest, Top 30 by National Education Examinations & China Education
 
-Technical Experience
+Open Source Projects
 --------------------
-I have developed/maintained the Serverless Load Balancers for STEEM Blockchain (RPC Nodes)
+I have developed/maintained the Load Balancers for STEEM Blockchain (RPC Nodes):
 
+- Open Source: https://github.com/doctorlai/steem-load-balancer
 - AWS Lambda
     * https://x68bp3mesd.execute-api.ap-northeast-1.amazonaws.com/release
     * https://e51ewpb9dk.execute-api.us-east-1.amazonaws.com/release
@@ -144,10 +142,6 @@ Other side projects/tools/libraries/APIs:
 - SteemVBS: [https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) which is the VBScript library to connect to steem blockchain.
 - Online Video Downloaders and APIs - [https://weibomiaopai.com](https://weibomiaopai.com) and the popular [Simple Video Downloader](https://chrome.google.com/webstore/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj)
 - [npmjs packages](https://www.npmjs.com/settings/justyy/packages)
-
-Open Source
-:   Most of my tools are open source and I constantly find bugs and create issues or PR to other open source libraries. My github id is [doctorlai](https://github.com/doctorlai) and my NPM-Js ID is [justyy](https://www.npmjs.com/settings/justyy/packages). I was also a Utopian Moderator (Rewarding Open Source Contributor on Steem Blockchain). A few Pull Requests that I have contributed: [https://steemyy.com/others.php#pr](https://steemyy.com/others.php#pr)
-
 
 Selected Publications
 ---------------------
@@ -173,13 +167,20 @@ Worth mentioning
 * My propagation model 'IRLA' has been cited in the book "Femtocells - Technologies and Deployment", John Wiley & Sons, ISBN: 978-0-470-74298-3. 
 * I write highly-optimized code (which uses less memory and executes faster). For example, for Problem 1532 on ACM Timus Online Judge, my submission ranks the second. The maximum time allowed is 4 seconds but my algorithm executes in 0.312 seconds. [http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100](http://acm.timus.ru/rating.aspx?space=1&num=1532&count=100)
 * I run a delegated service on steem blockchain [\@justyy](https://steemd.com/@justyy) where Steemians delegate their Steem Power to me and my bots send out the Steem Dollars (tokens) at a rate of 8% to 10%. Also my bots are up running 24/7 to vote the quality posts of the delegatees. 
-* I am currently the 4-th most delegated account on the STEEM Blockchain e.g. 300+ delegations according to [https://steemyy.com/top-delegations-by-count/](https://steemyy.com/top-delegations-by-count/)
+* I am currently the top 3 witness on the STEEM Blockchain. A witness is a [block producer](https://steemyy.com/witness-ranking/).
+* I am currently the 3-rd most delegated account on the STEEM Blockchain e.g. 300+ delegations according to [https://steemyy.com/top-delegations-by-count/](https://steemyy.com/top-delegations-by-count/)
 * I run [\@dailychina](https://steemd.com/@dailychina) where the algorithms select top 10 quality posts and reward them daily (very popular and postive feedbacks received).
 * I develop [\@fairlottery](https://steemit.com/fairlottery/@fairlottery/readme) (Blockchain Lottery) and [\@witnesstools](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum) (Steem Blockchain Gambling).
 * I write discord/telegram bots that distribute test coins (TRX, USDT, USDC, USDD) on Tron Blockchain (Shasta and Nile Test Net).
-* I develop and run Simple Token Swap Tools on Multiple blockchains (Cross Chains Token Swap Tools): [Steem To Solana](https://steemyy.com/steem2sol.php), [Steem To Ethereum](https://steemyy.com/steem2eth.php), [Steem to Bitshares](https://steemyy.com/steem2bts.php), [Steem to TRON](https://steemyy.com/steem2trx.php) and [Steem to USDT](https://steemyy.com/steem2usdt.php).
+* I develop and run Simple Token Swap Tools on Multiple blockchains: 
+  * [Tron/USDT/USDD/TRX to STEEM](https://steemyy.com/tron2steem.php)
+  * [Steem to Ethereum](https://steemyy.com/steem2eth.php)
+  * [Steem to Bitshares](https://steemyy.com/steem2bts.php)
+  * [Steem to TRON](https://steemyy.com/steem2trx.php)
+  * [Steem to USDT](https://steemyy.com/steem2usdt.php)
 * I develop and run Account Registration Services on Steem Blockchain: [Register a Free Account on Steem Blockchain](https://steemyy.com/reg.php).
 * I develop the [Steem Blockchain Explorer](https://steemyy.com/block.php).
+* I run a [Steem Power Token Rent (Lease Services)](https://steemyy.com/rent-sp.php).
 
 My Other Activities
 -------------------
