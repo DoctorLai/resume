@@ -1,5 +1,6 @@
 Zhihua Lai (PhD)
 ==========
+Source https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
 > Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC), A Top 3 Steem Blockchain Witness (Block Producer), Ex-Amazon/Ex-General-Electric. Passionate for Algorithms, Blockchain and Cloud (ABC).
 
