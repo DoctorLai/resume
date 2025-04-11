@@ -31,6 +31,7 @@
 * 我开发和维护在波场Shasta/Nile测试网上的发币水龙头(TRX, USDC, USDT, USDD测试币)
 * 我开发和维护了几个STEEM跨链代币兑换服务: 
   * [波场币 Tron/USDT/USDD/TRX to STEEM](https://steemyy.com/steemit-tools/tron2steem.php)
+  * [Steem To SUI](https://steemyy.com/steemit-tools/steem2sui.php)
   * [Steem To Ethereum 以太网](https://steemyy.com/steemit-tools/steem2eth.php)
   * [Steem to Solana 索洛纳](https://steemyy.com/steemit-tools/steem2sol.php)
   * [Steem to Bitshares 比特股](https://steemyy.com/steemit-tools/steem2bts.php)
