@@ -202,7 +202,7 @@ My Other Activities
 > <dr.zhihua.lai [AT] gmail.com> • +44 (0)7939518997 \
 > **Indefinitely Leave to Remain** - address - Cambridge, UK\
 > Open to relocation\
-> Clean UK Driving License (12 Years +)
+> Clean UK Driving License (13 Years +)
 
 Linkedin: [https://www.linkedin.com/in/doctorlai/](https://www.linkedin.com/in/doctorlai/) \
 Reference provided on requests.
