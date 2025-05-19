@@ -2,15 +2,15 @@ Zhihua Lai (PhD)
 ==========
 **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-**Version** 2024-11-04 (Please Read the **First Two Pages** if you don't have time)
+**Version** 2025-05-19 (Please Read the **First Two Pages** if you don't have time)
 
 Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
 
 A Top 3 Steem Blockchain Witness (Block Producer/Miner), Ex-Amazon/Ex-General-Electric. Passionate for Algorithms, Blockchain and Cloud (ABC).
 
-[@ MSRC](https://www.microsoft.com/en-us/research/people/zhihualai/)
-
-[Github @ DoctorLai](https://github.com/doctorlai)
+- [@ MSRC](https://www.microsoft.com/en-us/research/people/zhihualai/)
+- [Github @ DoctorLai](https://github.com/doctorlai)
+- [Github @ DoctorLai-MSRC](https://github.com/doctorlai-msrc)
 
 Personal Page: [https://zhihua-lai.com](https://zhihua-lai.com) 
 
@@ -29,14 +29,18 @@ I am a [TOP 3 Witness](https://steemyy.com/witness-ranking/) aka Block Producer 
 Job Experience
 --------------
 **Senior Software Engineer** at ***Microsoft (Cambridge, UK)*** 
-2021/07 to Present: [AFO (Azure For Operators)](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/), [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/)
+2021/07 to Present: [Intelligent Network System](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/), [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/)
 
-* Open Source: [microsoft/jbpf](https://github.com/microsoft/jbpf) - [Github @ DoctorLai-MSRC](https://github.com/doctorlai-msrc)
-* Technology: Linux (BASH), C, C++, eBPF, 4G/5G, O-RAN, Azure (AKS, K8S, Azure Functions, Service Bus, Pipeline ...), Python, Go, C#, NodeJS, Rust etc.
-* Microsoft Technical Report: [Taking 5G RAN Analytics and Control to a New Level](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf), December 2022
-* ACM MobiCom'23: [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493)
-* ACM MobiCom'23: (*[Best Demo Award Runner-Up](https://sigmobile.org/mobicom/2023/posters.html)*), [Programmable RAN Platform for Flexible Real-Time Control and Telemetry](https://dl.acm.org/doi/pdf/10.1145/3570361.3614065)
-* ACM MobiCom'23: [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745)
+* Technology: Linux (BASH), C, C++, eBPF, 4G/5G, O-RAN, Azure (AKS/K8S, Azure Functions, Service Bus, CI/Pipeline ...), Python, Go, C#, NodeJS, Rust etc.
+* Open Sourcing:
+  * [github.com/microsoft/jbpf](https://github.com/microsoft/jbpf)
+  * [github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller)
+  * [github.com/microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf)
+* Publications:
+  * Microsoft Technical Report: [Taking 5G RAN Analytics and Control to a New Level](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf), December 2022
+  * ACM MobiCom'23: [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493)
+  * ACM MobiCom'23: (*[Best Demo Award Runner-Up](https://sigmobile.org/mobicom/2023/posters.html)*), [Programmable RAN Platform for Flexible Real-Time Control and Telemetry](https://dl.acm.org/doi/pdf/10.1145/3570361.3614065)
+  * ACM MobiCom'23: [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745)
 
 **Software Development Engineer** at ***Amazon AWS (Cambridge, UK)*** 
 2020/01 to 2021/07: SDE (L5) = Someone Does Everything = Full Stack Software Engineer + On-Call Duties
@@ -180,7 +184,7 @@ Worth mentioning
 * I write discord/telegram bots that distribute test coins (TRX, USDT, USDC, USDD) on Tron Blockchain (Shasta and Nile Test Net).
 * I develop and run Simple Token Swap Tools on Multiple blockchains: 
   * [Tron/USDT/USDD/TRX to STEEM](https://steemyy.com/tron2steem.php)
-  * [Steem to SUI](https://steemyy.com/steemit-tools/steem2sui.php)
+  * [Steem to SUI](https://steemyy.com/steem2sui.php)
   * [Steem to Ethereum](https://steemyy.com/steem2eth.php)
   * [Steem to Solana](https://steemyy.com/steem2sol.php)
   * [Steem to Bitshares](https://steemyy.com/steem2bts.php)
