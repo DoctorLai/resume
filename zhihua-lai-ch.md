@@ -1,4 +1,3 @@
-
 精选著作/文章
 ---------
 * [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745), In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA. [https://doi.org/10.1145/3570361.3615745](https://doi.org/10.1145/3570361.3615745)
@@ -17,6 +16,20 @@
 * Implementation and Validation of a 2.5D Intelligent Ray Launching Algorithm for Large Urban Scenarios, The Sixth European Conference on Antennas and Propagation, EUCAP, IEEE, Prague, Czech Republic, March 26-30, 2012,ISBN: 978-1-4577-0919-7.
 * Antenna Height Compensation for an Indoor to Outdoor Channel model based on a 2D Finite Difference Model, 29th Progress In Electromagnetics Research Symposium, Marrakesh, Morocco, March 20-23, 2011.
 * A New Deterministic Hybrid Model for Indoor-to-Outdoor Radio Coverage Prediction, The Fifth European Conference on Antennas and Propagation, EUCAP, IEEE, Rome, Italy, April 11-15, 2011, ISBN: 978-88-8202-074-3, p.p.:3771-3774.
+
+开源
+--------------------
+我喜欢Build。
+
+- [steem-load-balancer](https://github.com/doctorlai/steem-load-balancer): 我还将STEEM负载平衡算法部署到 AWS、Microsoft Azure 和 CloudFlare。
+- [llm-telegram-bot](https://github.com/DoctorLai/llm-telegram-bot): LLM大语言模型telegram机器人。
+- [SimilarString](https://github.com/DoctorLai/SimilarString): 计算两个字符串相似度的Flask服务。
+- [awesome-steem](https://github.com/Doctorlai/awesome-steem)
+- [yaml-json-converter](https://github.com/doctorlai/yaml-json-converter)
+- [base64-converter](https://github.com/doctorlai/base64-converter)
+- [rot47-converter](https://github.com/doctorlai/rot47-converter)
+- [markdown-html-converter](https://github.com/doctorlai/markdown-html-converter)
+- Steem Blockchain Tools and APIs: [https://steemyy.com](https://steemyy.com)
 
 其它成就
 ----------------------------------------
