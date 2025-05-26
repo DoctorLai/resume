@@ -2,7 +2,7 @@ Zhihua Lai (PhD)
 ==========
 **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-**Version** 2025-05-19 (Please Read the **First Two Pages** if you don't have time)
+**Version** 2025-05-26 (Please Read the **First Two Pages** if you don't have time)
 
 Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
 
@@ -130,27 +130,17 @@ Education and Awards
 
 Open Source Projects
 --------------------
-I have developed/maintained the Load Balancers for STEEM Blockchain (RPC Nodes):
+I like to build stuffs.
 
-- Open Source: https://github.com/doctorlai/steem-load-balancer
-- AWS Lambda
-    * https://x68bp3mesd.execute-api.ap-northeast-1.amazonaws.com/release
-    * https://e51ewpb9dk.execute-api.us-east-1.amazonaws.com/release
-- Microsoft Azure Function
-    * https://justyy.azurewebsites.net/api/steem
-- Cloudflare Worker
-    * [https://steem.senior.workers.dev](https://steem.senior.workers.dev)
-
-Other side projects/tools/libraries/APIs:
-
-- A set of Steem Block Chain Tools: [https://steemyy.com](https://steemyy.com)
-- A few useful Chrome Extensions and Online/Web Tools: [https://helloacm.com/tools/](https://helloacm.com/tools/)
-- A few APIs: [https://helloacm.com/list-of-apis/](https://helloacm.com/list-of-apis/) and [Blockchain APIs](https://steemyy.com/list-of-api.php)
-    - [Crypto API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
-    - [Sudoku API](https://steemit.com/witness-category/@justyy/made-a-sudoku-api)
-- SteemVBS: [https://github.com/DoctorLai/steemvbs](https://github.com/DoctorLai/steemvbs) which is the VBScript library to connect to steem blockchain.
-- Online Video Downloaders and APIs - [https://weibomiaopai.com](https://weibomiaopai.com) and the popular [Simple Video Downloader](https://chrome.google.com/webstore/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj)
-- [npmjs packages](https://www.npmjs.com/settings/justyy/packages)
+- [steem-load-balancer](https://github.com/doctorlai/steem-load-balancer): I also deployed load balancing to AWS, Microsoft Azure and CloudFlare.
+- [llm-telegram-bot](https://github.com/DoctorLai/llm-telegram-bot): Simple LLM Telegram Bot.
+- [SimilarString](https://github.com/DoctorLai/SimilarString): Flask App to Compute Similarity of Two Strings.
+- [awesome-steem](https://github.com/Doctorlai/awesome-steem)
+- [yaml-json-converter](https://github.com/doctorlai/yaml-json-converter)
+- [base64-converter](https://github.com/doctorlai/base64-converter)
+- [rot47-converter](https://github.com/doctorlai/rot47-converter)
+- [markdown-html-converter](https://github.com/doctorlai/markdown-html-converter)
+- Steem Blockchain Tools and APIs: [https://steemyy.com](https://steemyy.com)
 
 Selected Publications
 ---------------------
@@ -202,7 +192,8 @@ My Other Activities
 > <dr.zhihua.lai [AT] gmail.com> • +44 (0)7939518997 \
 > **Indefinitely Leave to Remain** - address - Cambridge, UK\
 > Open to relocation\
-> Clean UK Driving License (13 Years +)
+> Clean UK Driving License (13
+>  Years +)
 
 Linkedin: [https://www.linkedin.com/in/doctorlai/](https://www.linkedin.com/in/doctorlai/) \
 Reference provided on requests.
