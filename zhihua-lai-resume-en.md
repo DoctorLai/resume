@@ -2,13 +2,13 @@ Zhihua Lai (PhD)
 ==========
 **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-**Version** 2025-05-26 (Please Read the **First Two Pages** if you don't have time)
+**Version** 2025-07-31 (Please Read the **First Two Pages** if you don't have time)
 
 Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
 
 A Top 3 Steem Blockchain Witness (Block Producer/Miner), Ex-Amazon/Ex-General-Electric. Passionate for Algorithms, Blockchain and Cloud (ABC).
 
-- [@ MSRC](https://www.microsoft.com/en-us/research/people/zhihualai/)
+- MSRC: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 - [Github @ DoctorLai](https://github.com/doctorlai)
 - [Github @ DoctorLai-MSRC](https://github.com/doctorlai-msrc)
 
@@ -31,12 +31,14 @@ Job Experience
 **Senior Software Engineer** at ***Microsoft (Cambridge, UK)*** 
 2021/07 to Present: [Intelligent Network System](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/), [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/)
 
-* Technology: Linux (BASH), C, C++, eBPF, 4G/5G, O-RAN, Azure (AKS/K8S, Azure Functions, Service Bus, CI/Pipeline ...), Python, Go, C#, NodeJS, Rust etc.
-* Open Sourcing:
-  * [github.com/microsoft/jbpf](https://github.com/microsoft/jbpf)
-  * [github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller)
-  * [github.com/microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf)
-* Publications:
+* **Full Stack**: Linux (BASH), C, C++, eBPF, 4G/5G, O-RAN, Azure (AKS/K8S, Azure Functions, Service Bus, CI/Pipeline ...), Python, Go, C#, NodeJS, Rust, Android, WASM etc.
+* **Role**: As an engineer in the Research Org, I support researchers in rapidly prototyping ideas from 0 to 1. I’ve contributed to a wide range of projects spanning low-level systems (eBPF in C), performance-critical components in C++, as well as application development in C# and Android.
+* **Open Sourcing**:
+  * [github.com/microsoft/jbpf](https://github.com/microsoft/jbpf) - [My Pull Requests](https://github.com/microsoft/jbpf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
+  * [github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller) - [My Pull Requests](https://github.com/microsoft/jrt-controller/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
+  * [github.com/microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf) - [My Pull Requests](https://github.com/microsoft/jbpf-protobuf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
+  * [github.com/microsoft/jrtc-apps](https://github.com/microsoft/jrtc-apps) - [My Pull Requests](https://github.com/microsoft/jrtc-apps/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
+* **Publications**:
   * Microsoft Technical Report: [Taking 5G RAN Analytics and Control to a New Level](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf), December 2022
   * ACM MobiCom'23: [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493)
   * ACM MobiCom'23: (*[Best Demo Award Runner-Up](https://sigmobile.org/mobicom/2023/posters.html)*), [Programmable RAN Platform for Flexible Real-Time Control and Telemetry](https://dl.acm.org/doi/pdf/10.1145/3570361.3614065)
@@ -52,7 +54,6 @@ Highlights of contributions:
 * Working on S3 Object Lambda from Day 1! [https://aws.amazon.com/s3/features/object-lambda/](https://aws.amazon.com/s3/features/object-lambda/)
 * Built the internal tooling to track the performance of S3 - the largest distribute storage product in the world. Automated categorization of issues and performance bottlenecks in a very large distributed system help engineers identify and address the problem.
 
-
 **Staff Software Engineer** at ***General Electric (Cambridge, UK)***
 2018/12 to 2020/01: It has been a tremendous success for me as I have learned a lot, improved myself and become confident in the GE Smallworld technology stacks. I have merged 165+ PRs and completed 92+ stories (25 Pull Requests Merged in First 3 Months), and have contributed quite a few to the smallworld products (Smallworld GIS Software core and other components)
 
@@ -63,11 +64,11 @@ Highlights of contributions:
 * I added the while loop to the Magik programming language.
 * I added the regular expression to the Magik programming language.
 * I designed and implemented the HTTP library.
-* I designed and implemented the JWT (Json Web Token) library - used in UAA Authentication
-* I implemented the Magik Random Interop Library that improves the performance and fix the multithreading race condition problems
-* I added the Magik URL validation library in the core
-* I contributed to the development of the outbound/inbound framework
-* I contributed to MUnit testing framework
+* I designed and implemented the JWT (Json Web Token) library - used in UAA Authentication.
+* I implemented the Magik Random Interop Library that improves the performance and fix the multithreading race condition problems.
+* I added the Magik URL validation library in the core.
+* I contributed to the development of the outbound/inbound framework.
+* I contributed to MUnit testing framework.
 
 **Principal Algorithm Engineer** at ***Ranplan Wireless (Cambridgeshire, UK)***
 2010/09 to 2018/11: I am one of the lead developers for this product (C#7, .NET4.7): [https://ranplanwireless.com/products/](https://ranplanwireless.com/products/) and I design, develop and maintain the core library (Radio Propagation engine). It is a 500K LOC code base that consists of Visual Studio C++ 2017, Delphi 10.2 Tokyo with some Inline Assembly and some VBS/JS.
@@ -142,6 +143,12 @@ I like to build stuffs.
 - [markdown-html-converter](https://github.com/doctorlai/markdown-html-converter)
 - Steem Blockchain Tools and APIs: [https://steemyy.com](https://steemyy.com)
 
+DAO (Decentralized Autonomous Organization) Proposals
+---------------------
+- [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemitwallet.com/proposals): I've managed to upgrade the underlying libraries for the STEEM blockchain (C++)
+    - [Refactor and Cleanup: Ubuntu20.04 and Remove Ubuntu18.04 #3699](https://github.com/steemit/steem/pull/3699)
+    - [Add Ubuntu 22.04 Support for steemd #3700](https://github.com/steemit/steem/pull/3700)
+
 Selected Publications
 ---------------------
 * [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745), In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA. [https://doi.org/10.1145/3570361.3615745](https://doi.org/10.1145/3570361.3615745)
@@ -187,13 +194,12 @@ Worth mentioning
 My Other Activities
 -------------------
 * 2019-11 to 2019-12: I taught the course *Microbit Programming* at weekends in Chesterton Community Colleage (organised by Chinese Family Together and Hacklab Cambridge) to kids (8 yrs+). 
-* I teach my sons programming videos (700+) which are uploaded to youtube: [https://zhihua-lai.com/teaching/](https://zhihua-lai.com/teaching/)
+* I teach my sons programming (and math) videos (700 days+): [https://zhihua-lai.com/teaching/](https://zhihua-lai.com/teaching/)
 
 > <dr.zhihua.lai [AT] gmail.com> • +44 (0)7939518997 \
 > **Indefinitely Leave to Remain** - address - Cambridge, UK\
 > Open to relocation\
-> Clean UK Driving License (13
->  Years +)
+> Clean UK Driving License (13 Years +)
 
 Linkedin: [https://www.linkedin.com/in/doctorlai/](https://www.linkedin.com/in/doctorlai/) \
 Reference provided on requests.
