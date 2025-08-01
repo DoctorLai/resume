@@ -2,7 +2,7 @@ Zhihua Lai (PhD)
 ==========
 **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-**Version** 2025-07-31 (Please Read the **First Two Pages** if you don't have time)
+**Version** 2025-08-01 (Please Read the **First Two Pages** if you don't have time)
 
 Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
 
@@ -32,7 +32,7 @@ Job Experience
 2021/07 to Present: [Intelligent Network System](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/), [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/)
 
 * **Full Stack**: Linux (BASH), C, C++, eBPF, 4G/5G, O-RAN, Azure (AKS/K8S, Azure Functions, Service Bus, CI/Pipeline ...), Python, Go, C#, NodeJS, Rust, Android, WASM etc.
-* **Role**: As an engineer in the Research Org, I support researchers in rapidly prototyping ideas from 0 to 1. I’ve contributed to a wide range of projects spanning low-level systems (eBPF in C), performance-critical components in C++, as well as application development in C# and Android.
+* **Role**: As an engineer in the Research Org, I support researchers in rapidly prototyping ideas from 0 to 1. I’ve contributed to a wide range of projects, including low-level systems (eBPF in C), performance-critical components in C++, and application development in C#, Android (Java/Kotlin), and robotics (ROS2).
 * **Open Sourcing**:
   * [github.com/microsoft/jbpf](https://github.com/microsoft/jbpf) - [My Pull Requests](https://github.com/microsoft/jbpf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
   * [github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller) - [My Pull Requests](https://github.com/microsoft/jrt-controller/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
