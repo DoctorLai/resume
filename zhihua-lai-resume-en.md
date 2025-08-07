@@ -2,7 +2,7 @@ Zhihua Lai (PhD)
 ==========
 **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-**Version** 2025-08-01 (Please Read the **First Two Pages** if you don't have time)
+**Version** 2025-08-07 (Please Read the **First Two Pages** if you don't have time)
 
 Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
 
@@ -145,9 +145,10 @@ I like to build stuffs.
 
 DAO (Decentralized Autonomous Organization) Proposals
 ---------------------
-- [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemitwallet.com/proposals): I've managed to upgrade the underlying libraries for the STEEM blockchain (C++)
-    - [Refactor and Cleanup: Ubuntu20.04 and Remove Ubuntu18.04 #3699](https://github.com/steemit/steem/pull/3699)
-    - [Add Ubuntu 22.04 Support for steemd #3700](https://github.com/steemit/steem/pull/3700)
+- [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemitwallet.com/proposals): I've managed to compile the STEEM blockchain (C++) on Modern OS.
+    - [#3701: Make steemd compiled at Ubuntu24.04](https://github.com/steemit/steem/pull/3701)
+    - [#3700: Add Ubuntu 22.04 Support for steemd](https://github.com/steemit/steem/pull/3700)
+    - [#3699: Refactor and Cleanup: Ubuntu20.04 and Remove Ubuntu18.04](https://github.com/steemit/steem/pull/3699)    
 
 Selected Publications
 ---------------------
