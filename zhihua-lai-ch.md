@@ -1,3 +1,4 @@
+
 精选著作/文章
 ---------
 * [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745), In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA. [https://doi.org/10.1145/3570361.3615745](https://doi.org/10.1145/3570361.3615745)
@@ -25,10 +26,12 @@
 - [llm-telegram-bot](https://github.com/DoctorLai/llm-telegram-bot): LLM大语言模型telegram机器人。
 - [SimilarString](https://github.com/DoctorLai/SimilarString): 计算两个字符串相似度的Flask服务。
 - [awesome-steem](https://github.com/Doctorlai/awesome-steem)
-- [yaml-json-converter](https://github.com/doctorlai/yaml-json-converter)
+- [yaml-json-converter](https://github.com/doctorlai/yaml-json-converter): YAML/JSON 格式转换。
 - [base64-converter](https://github.com/doctorlai/base64-converter)
 - [rot47-converter](https://github.com/doctorlai/rot47-converter)
 - [markdown-html-converter](https://github.com/doctorlai/markdown-html-converter)
+- [prime-factorization](https://github.com/doctorlai/prime-factorization): 整数质因素分解。
+- [hex-viewer](https://github.com/doctorlai/hex-viewer): 文件数据十六进制查看。
 - Steem Blockchain Tools and APIs: [https://steemyy.com](https://steemyy.com)
 
 其它成就
@@ -53,6 +56,8 @@
 * 我开发和维护了在STEEM区块链上的帐号注册服务: [免费注册一个STEEM帐号](https://steemyy.com/steemit-tools/reg.php).
 * 我开发和维护了STEEM区块链浏览器 [Steem Block Explorer](https://steemyy.com/steemit-tools/block.php)
 * 我开发和维护了[STEEM代币的出租/租赁服务](https://steemyy.com/steemit-tools/rent-sp.php).
+* 我提交了一份DAO通过并成功完成了工作：[提案：修复最新操作系统中的 Steemd 构建依赖项](https://steemit.com/sps/@justyy/proposal-fixing-steemd-build-dependencies-in-the-latest-os)
+
 ----
 
 > <dr.zhihua.lai [AT] gmail.com> • +44 (0)7939518997 • \
