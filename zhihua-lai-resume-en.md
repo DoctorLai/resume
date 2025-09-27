@@ -2,7 +2,7 @@ Zhihua Lai (PhD)
 ==========
 **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-**Version** 2025-08-07 (Please Read the **First Two Pages** if you don't have time)
+**Version** 2025-09-27 (Please Read the **First Two Pages** if you don't have time)
 
 Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
 
@@ -131,7 +131,7 @@ Education and Awards
 
 Open Source Projects
 --------------------
-I like to build stuffs.
+I am a builder and a problem-solver.
 
 - [steem-load-balancer](https://github.com/doctorlai/steem-load-balancer): I also deployed load balancing to AWS, Microsoft Azure and CloudFlare.
 - [llm-telegram-bot](https://github.com/DoctorLai/llm-telegram-bot): Simple LLM Telegram Bot.
@@ -141,6 +141,8 @@ I like to build stuffs.
 - [base64-converter](https://github.com/doctorlai/base64-converter)
 - [rot47-converter](https://github.com/doctorlai/rot47-converter)
 - [markdown-html-converter](https://github.com/doctorlai/markdown-html-converter)
+- [prime-factorization](https://github.com/doctorlai/prime-factorization)
+- [hex-viewer](https://github.com/doctorlaihex-viewer)
 - Steem Blockchain Tools and APIs: [https://steemyy.com](https://steemyy.com)
 
 DAO (Decentralized Autonomous Organization) Proposals
