@@ -2,7 +2,7 @@ Zhihua Lai (PhD)
 ==========
 **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-**Version** 2025-09-27 (Please Read the **First Two Pages** if you don't have time)
+**Version** 2025-10-02 (Please Read the **First Two Pages** if you don't have time)
 
 Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
 
@@ -43,6 +43,7 @@ Job Experience
   * ACM MobiCom'23: [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493)
   * ACM MobiCom'23: (*[Best Demo Award Runner-Up](https://sigmobile.org/mobicom/2023/posters.html)*), [Programmable RAN Platform for Flexible Real-Time Control and Telemetry](https://dl.acm.org/doi/pdf/10.1145/3570361.3614065)
   * ACM MobiCom'23: [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745)
+  * [Distributed AI Platform for the 6G RAN](https://doi.org/10.48550/arXiv.2410.03747)
 
 **Software Development Engineer** at ***Amazon AWS (Cambridge, UK)*** 
 2020/01 to 2021/07: SDE (L5) = Someone Does Everything = Full Stack Software Engineer + On-Call Duties
@@ -148,12 +149,14 @@ I am a builder and a problem-solver.
 DAO (Decentralized Autonomous Organization) Proposals
 ---------------------
 - [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemitwallet.com/proposals): I've managed to compile the STEEM blockchain (C++) on Modern OS.
+    - [#3702: Make Steem Great Again: Support AzureLinux3!](https://github.com/steemit/steem/pull/3702)
     - [#3701: Make steemd compiled at Ubuntu24.04](https://github.com/steemit/steem/pull/3701)
     - [#3700: Add Ubuntu 22.04 Support for steemd](https://github.com/steemit/steem/pull/3700)
     - [#3699: Refactor and Cleanup: Ubuntu20.04 and Remove Ubuntu18.04](https://github.com/steemit/steem/pull/3699)    
 
 Selected Publications
 ---------------------
+* [Distributed AI Platform for the 6G RAN](https://doi.org/10.48550/arXiv.2410.03747), arXiv:2410.03747v2 [cs.NI], [v2] Mon, 29 Sep 2025
 * [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745), In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA. [https://doi.org/10.1145/3570361.3615745](https://doi.org/10.1145/3570361.3615745)
 * [Programmable RAN Platform for Flexible Real-Time Control and Telemetry](https://dl.acm.org/doi/pdf/10.1145/3570361.3614065), In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA. [https://doi.org/10.1145/3570361.3614065](https://doi.org/10.1145/3570361.3614065) - **[Best Demo Award Runner-Up](https://sigmobile.org/mobicom/2023/posters.html)**
 * [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493), In The 29th Annual International Conference on Mobile Computing and Networking (ACM MobiCom'23), October 2-6, 2023, Madrid, Spain. ACM, New York, NY, USA, 16 pages. [https://doi.org/10.1145/3570361.3592493](https://doi.org/10.1145/3570361.3592493)
