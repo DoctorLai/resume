@@ -2,17 +2,17 @@ Zhihua Lai (PhD)
 ==========
 **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-**Version** 2025-11-08 (Please Read the **First Two Pages** if you don't have time)
+**Version** 2025-11-15 (Please Read the **First Two Pages** if you don't have time)
 
 Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
 
 A Top 3 Steem Blockchain Witness (Block Producer/Miner), Ex-Amazon/Ex-General-Electric. Passionate for Algorithms, Blockchain and Cloud (ABC).
 
 - MSRC: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
+- Linkedin: [https://www.linkedin.com/in/doctorlai/](https://www.linkedin.com/in/doctorlai/)
 - [Github @ DoctorLai](https://github.com/doctorlai)
 - [Github @ DoctorLai-MSRC](https://github.com/doctorlai-msrc)
-
-Personal Page: [https://zhihua-lai.com](https://zhihua-lai.com) 
+- Personal Page: [https://zhihua-lai.com](https://zhihua-lai.com) 
 
 I am currently a Senior Software Engineering in Intelligent Network System, previously known as [AFO (Azure For Operators)](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/) in the [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) where I contribute and build high performance software (C, C++, eBPF) that run on 5G Base Stations.
 
@@ -33,11 +33,12 @@ Job Experience
 
 * **Full Stack**: Linux (BASH), C, C++, eBPF, 4G/5G, O-RAN, Azure (AKS/K8S, Azure Functions, Service Bus, CI/Pipeline ...), Python, Go, C#, NodeJS, Rust, Android, WASM etc.
 * **Role**: As an engineer in the Research Org, I support researchers in rapidly prototyping ideas from 0 to 1. I’ve contributed to a wide range of projects, including low-level systems (eBPF in C), performance-critical components in C++, and application development in C#, Android (Java/Kotlin), and robotics (ROS2).
-* **Open Sourcing**:
-  * [github.com/microsoft/jbpf](https://github.com/microsoft/jbpf) - [My Pull Requests](https://github.com/microsoft/jbpf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
-  * [github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller) - [My Pull Requests](https://github.com/microsoft/jrt-controller/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
-  * [github.com/microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf) - [My Pull Requests](https://github.com/microsoft/jbpf-protobuf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
-  * [github.com/microsoft/jrtc-apps](https://github.com/microsoft/jrtc-apps) - [My Pull Requests](https://github.com/microsoft/jrtc-apps/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
+* **Open Source**:
+  * [github.com/microsoft/jbpf](https://github.com/microsoft/jbpf) - [My Pull Requests & Issues](https://github.com/microsoft/jbpf/issues?q=author%3Adoctorlai-msrc)
+  * [github.com/microsoft/jrt-controller](https://github.com/microsoft/jrt-controller) - [My Pull Requests & Issues](https://github.com/microsoft/jrt-controller/issues?q=author%3Adoctorlai-msrc)
+  * [github.com/microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf) - [My Pull Requests & Issues](https://github.com/microsoft/jbpf-protobuf/pulls?q=author%3Adoctorlai-msrc)
+  * [github.com/microsoft/exekias](https://github.com/microsoft/exekias) - [My Pull Requests & Issues](https://github.com/microsoft/exekias/issues?q=author%3Adoctorlai-msrc)
+  * [github.com/microsoft/jrtc-apps](https://github.com/microsoft/jrtc-apps) - [My Pull Requests & Issues](https://github.com/microsoft/jrtc-apps/issues?q=author%3Adoctorlai-msrc) 
 * **Publications**:
   * Microsoft Technical Report: [Taking 5G RAN Analytics and Control to a New Level](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf), December 2022
   * ACM MobiCom'23: [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493)
@@ -144,11 +145,13 @@ I am a builder and a problem-solver.
 - [markdown-html-converter](https://github.com/doctorlai/markdown-html-converter)
 - [prime-factorization](https://github.com/doctorlai/prime-factorization)
 - [hex-viewer](https://github.com/doctorlaihex-viewer)
+- [steem-proxy-cloudflare](https://github.com/DoctorLai/steem-proxy-cloudflare)
 - Steem Blockchain Tools and APIs: [https://steemyy.com](https://steemyy.com)
 
 DAO (Decentralized Autonomous Organization) Proposals
 ---------------------
 - [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemitwallet.com/proposals): I've managed to compile the STEEM blockchain (C++) on Modern OS.
+    - [#3705: Fixes and Refactor the Docker files](https://github.com/steemit/steem/pull/3705)
     - [#3704: Fix test_block_log](https://github.com/steemit/steem/pull/3704)
     - [#3703: Compile steemd on Debian 13 (Trinx)](https://github.com/steemit/steem/pull/3703)
     - [#3702: Make Steem Great Again: Support AzureLinux3!](https://github.com/steemit/steem/pull/3702)
@@ -205,9 +208,5 @@ My Other Activities
 * I teach my sons programming (and math) videos (700 days+): [https://zhihua-lai.com/teaching/](https://zhihua-lai.com/teaching/)
 
 > <dr.zhihua.lai [AT] gmail.com> • +44 (0)7939518997 \
-> **Indefinitely Leave to Remain** - address - Cambridge, UK\
-> Open to relocation\
-> Clean UK Driving License (13 Years +)
-
-Linkedin: [https://www.linkedin.com/in/doctorlai/](https://www.linkedin.com/in/doctorlai/) \
-Reference provided on requests.
+> **Indefinitely Leave to Remain** - address - Cambridge, UK
+> Clean UK Driving License (13 Years +) and Background Checks.
