@@ -1,4 +1,3 @@
-
 精选著作/文章
 ---------
 * [Distributed AI Platform for the 6G RAN](https://arxiv.org/pdf/2410.03747), In 2nd ACM Workshop on Open and AI RAN (OpenRan '25), November 4–8, 2025, Hong Kong, China. ACM, New York, NY, USA. [https://doi.org/10.48550/arXiv.2410.03747](https://doi.org/10.48550/arXiv.2410.03747)
@@ -26,14 +25,15 @@
 - [steem-load-balancer](https://github.com/doctorlai/steem-load-balancer): 我还将STEEM负载平衡算法部署到 AWS、Microsoft Azure 和 CloudFlare。
 - [llm-telegram-bot](https://github.com/DoctorLai/llm-telegram-bot): LLM大语言模型telegram机器人。
 - [SimilarString](https://github.com/DoctorLai/SimilarString): 计算两个字符串相似度的Flask服务。
-- [awesome-steem](https://github.com/Doctorlai/awesome-steem)
+- [awesome-steem](https://github.com/Doctorlai/awesome-steem): STEEM的资源整理。
 - [yaml-json-converter](https://github.com/doctorlai/yaml-json-converter): YAML/JSON 格式转换。
-- [base64-converter](https://github.com/doctorlai/base64-converter)
-- [rot47-converter](https://github.com/doctorlai/rot47-converter)
-- [markdown-html-converter](https://github.com/doctorlai/markdown-html-converter)
+- [base64-converter](https://github.com/doctorlai/base64-converter): BASE64编码/解码。
+- [rot47-converter](https://github.com/doctorlai/rot47-converter): ROT47编码/解码。
+- [markdown-html-converter](https://github.com/doctorlai/markdown-html-converter): MARKDOWN转HTML。
 - [prime-factorization](https://github.com/doctorlai/prime-factorization): 整数质因素分解。
 - [hex-viewer](https://github.com/doctorlai/hex-viewer): 文件数据十六进制查看。
-- Steem Blockchain Tools and APIs: [https://steemyy.com](https://steemyy.com)
+- [steem-proxy-cloudflare](https://github.com/DoctorLai/steem-proxy-cloudflare): STEEM在CloudFlare边缘代理节点。
+- Steem 区块链工具和API: [https://steemyy.com](https://steemyy.com)
 
 其它成就
 ----------------------------------------
