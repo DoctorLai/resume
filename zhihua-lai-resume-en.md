@@ -2,7 +2,7 @@ Zhihua Lai (PhD)
 ==========
 **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-**Version** 2025-11-15 (Please Read the **First Two Pages** if you don't have time)
+**Version** 2025-12-02 (Please Read the **First Two Pages** if you don't have time)
 
 Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
 
@@ -13,6 +13,7 @@ A Top 3 Steem Blockchain Witness (Block Producer/Miner), Ex-Amazon/Ex-General-El
 - [Github @ DoctorLai](https://github.com/doctorlai)
 - [Github @ DoctorLai-MSRC](https://github.com/doctorlai-msrc)
 - Personal Page: [https://zhihua-lai.com](https://zhihua-lai.com) 
+- Keep learning - My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/) and [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
 
 I am currently a Senior Software Engineering in Intelligent Network System, previously known as [AFO (Azure For Operators)](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/) in the [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) where I contribute and build high performance software (C, C++, eBPF) that run on 5G Base Stations.
 
@@ -150,7 +151,9 @@ I am a builder and a problem-solver.
 
 DAO (Decentralized Autonomous Organization) Proposals
 ---------------------
-- [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemitwallet.com/proposals): I've managed to compile the STEEM blockchain (C++) on Modern OS.
+- [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemit.com/sps/@justyy/proposal-fixing-steemd-build-dependencies-in-the-latest-os): I've managed to compile the STEEM blockchain (C++) on Modern OS.
+    - [#3707: Enable Basic Tests and Use 4 Theads to Build](https://github.com/steemit/steem/pull/3707)
+    - [#3706: Add Basic Github CI to Build All Dockerfiles](https://github.com/steemit/steem/pull/3706)
     - [#3705: Fixes and Refactor the Docker files](https://github.com/steemit/steem/pull/3705)
     - [#3704: Fix test_block_log](https://github.com/steemit/steem/pull/3704)
     - [#3703: Compile steemd on Debian 13 (Trinx)](https://github.com/steemit/steem/pull/3703)
