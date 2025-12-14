@@ -2,7 +2,7 @@ Zhihua Lai (PhD)
 ==========
 **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-**Version** 2025-12-02 (Please Read the **First Two Pages** if you don't have time)
+**Version** 2025-12-14 (Please Read the **First Two Pages** if you don't have time)
 
 Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
 
@@ -12,8 +12,6 @@ A Top 3 Steem Blockchain Witness (Block Producer/Miner), Ex-Amazon/Ex-General-El
 - Linkedin: [https://www.linkedin.com/in/doctorlai/](https://www.linkedin.com/in/doctorlai/)
 - [Github @ DoctorLai](https://github.com/doctorlai)
 - [Github @ DoctorLai-MSRC](https://github.com/doctorlai-msrc)
-- Personal Page: [https://zhihua-lai.com](https://zhihua-lai.com) 
-- Keep learning - My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/) and [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
 
 I am currently a Senior Software Engineering in Intelligent Network System, previously known as [AFO (Azure For Operators)](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/) in the [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) where I contribute and build high performance software (C, C++, eBPF) that run on 5G Base Stations.
 
@@ -41,14 +39,14 @@ Job Experience
   * [github.com/microsoft/exekias](https://github.com/microsoft/exekias) - [My Pull Requests & Issues](https://github.com/microsoft/exekias/issues?q=author%3Adoctorlai-msrc)
   * [github.com/microsoft/jrtc-apps](https://github.com/microsoft/jrtc-apps) - [My Pull Requests & Issues](https://github.com/microsoft/jrtc-apps/issues?q=author%3Adoctorlai-msrc) 
 * **Publications**:
+  * Open-AI RAN'25: [Distributed AI Platform for the 6G RAN](https://doi.org/10.48550/arXiv.2410.03747)
   * Microsoft Technical Report: [Taking 5G RAN Analytics and Control to a New Level](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/JanusTechnicalReport.pdf), December 2022
   * ACM MobiCom'23: [Taking 5G RAN Analytics and Control to a New Level](https://dl.acm.org/doi/pdf/10.1145/3570361.3592493)
   * ACM MobiCom'23: (*[Best Demo Award Runner-Up](https://sigmobile.org/mobicom/2023/posters.html)*), [Programmable RAN Platform for Flexible Real-Time Control and Telemetry](https://dl.acm.org/doi/pdf/10.1145/3570361.3614065)
   * ACM MobiCom'23: [Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed](https://dl.acm.org/doi/pdf/10.1145/3570361.3615745)
-  * Open-AI RAN'25: [Distributed AI Platform for the 6G RAN](https://doi.org/10.48550/arXiv.2410.03747)
 
 **Software Development Engineer** at ***Amazon AWS (Cambridge, UK)*** 
-2020/01 to 2021/07: SDE (L5) = Someone Does Everything = Full Stack Software Engineer + On-Call Duties
+2020/01 to 2021/07: SDE (L5) = **Someone Does Everything** = Full Stack Software Engineer + On-Call Duties
 
 * Technology: Java/RxJava, Python, Ruby, Javascript (Node, Vue.Js), AWS S3, EC2, CloudFormation, API Gateway, Lambda, DynamoDB, CloudWatch, Step Function, CDK/LPT...
 
@@ -193,7 +191,7 @@ Worth mentioning
 * I run [\@dailychina](https://steemd.com/@dailychina) where the algorithms select top 10 quality posts and reward them daily (very popular and postive feedbacks received).
 * I develop [\@fairlottery](https://steemit.com/fairlottery/@fairlottery/readme) (Blockchain Lottery) and [\@witnesstools](https://steemit.com/busy/@witnesstools/let-s-guess-transactionnum) (Steem Blockchain Gambling).
 * I write discord/telegram bots that distribute test coins (TRX, USDT, USDC, USDD) on Tron Blockchain (Shasta and Nile Test Net).
-* I develop and run Simple Token Swap Tools on Multiple blockchains: 
+* I develop and run Simple Token Swap Tools on Multiple blockchains as a POC: 
   * [Tron/USDT/USDD/TRX to STEEM](https://steemyy.com/tron2steem.php)
   * [Steem to SUI](https://steemyy.com/steem2sui.php)
   * [Steem to Ethereum](https://steemyy.com/steem2eth.php)
@@ -209,7 +207,14 @@ My Other Activities
 -------------------
 * 2019-11 to 2019-12: I taught the course *Microbit Programming* at weekends in Chesterton Community Colleage (organised by Chinese Family Together and Hacklab Cambridge) to kids (8 yrs+). 
 * I teach my sons programming (and math) videos (700 days+): [https://zhihua-lai.com/teaching/](https://zhihua-lai.com/teaching/)
+* Personal Page: [https://zhihua-lai.com](https://zhihua-lai.com) 
+* Keep learning:
+    * My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/)
+    * [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
+    * [Credly](https://www.credly.com/users/zhihua-lai/)
+    * [Github: C++ Coding Exercise](https://github.com/doctorlai/cpp-coding-exercise)
 
 > <dr.zhihua.lai [AT] gmail.com> • +44 (0)7939518997 \
 > **Indefinitely Leave to Remain** - address - Cambridge, UK
 > Clean UK Driving License (13 Years +) and Background Checks.
+
