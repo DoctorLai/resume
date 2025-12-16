@@ -1,8 +1,10 @@
 # Zhihua Lai, PhD
 **Senior Software Engineer — Systems, Cloud & Networking**
 
+*This is the short version*, the *long version*: https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
+
 Cambridge, UK  
-📧 dr.zhihua.lai@gmail.com | 📞 +44 (0)7939 518997  
+📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997  
 
 - **LinkedIn:** https://www.linkedin.com/in/doctorlai  
 - **GitHub:** https://github.com/DoctorLai  
@@ -12,13 +14,14 @@ Cambridge, UK
 ---
 
 ## PROFESSIONAL SUMMARY
-Senior Software Engineer at **Microsoft Research Cambridge**  
-working on **high-performance systems, cloud infrastructure, and 5G/6G networking**.
-
-Former **Amazon AWS** engineer (Day-1 contributor to **Amazon S3 Object Lambda**)  
-and **General Electric** Staff Software Engineer.  
-**PhD in Computer Science**, published researcher (ACM MobiCom), and **Top-3 Witness  
-(Block Producer)** on the **Steem Blockchain** (https://steemyy.com).
+- Senior Software Engineer at **Microsoft Research Cambridge**  
+working on **high-performance systems, cloud infrastructure, robotics AI and 5G/6G networking**.
+- Former **Amazon AWS** engineer
+(Day-1 contributor to **Amazon S3 Object Lambda**) 
+- Former **General Electric** Staff Software Engineer.
+working on Magik Compiler
+- **PhD in Computer Science**, published researcher (ACM MobiCom)
+- **Top-3 Witness  (Block Producer)** on the **Steem Blockchain** (https://steemyy.com).
 
 Proven record of delivering **low-latency, production-grade systems** across  
 **C/C++, eBPF, distributed cloud platforms, and large-scale storage systems**.
@@ -28,9 +31,9 @@ Proven record of delivering **low-latency, production-grade systems** across
 ## CORE SKILLS
 - **Systems & Networking:** C, C++, eBPF, Linux, O-RAN, 4G/5G, RAN, low-latency systems  
 - **Cloud & Distributed Systems:**  
-  Azure (AKS, Kubernetes, Functions, Service Bus, CI/CD),  
-  AWS (S3, EC2, Lambda, DynamoDB, CloudFormation)  
-- **Languages:** C/C++, Python, Go, Java, C#, Rust, Node.js  
+  Azure (AKS, Kubernetes, Functions, Service Bus, CI/CD etc),  
+  AWS (S3, EC2, Lambda, DynamoDB, CloudFormation etc)  
+- **Languages:** C/C++, Python, Go, Java, C#, Rust, PHP, Node.js etc
 - **Research & Engineering:** Performance optimization, rapid prototyping (0→1)  
 - **Blockchain:** Infrastructure, tooling, APIs, block production (Steem)
 
@@ -56,7 +59,7 @@ https://www.microsoft.com/en-us/research/group/ins/
 - https://github.com/microsoft/jrtc-apps  
 
 **Publications (Selected)**
-- *Distributed AI Platform for the 6G RAN* — Open-AI RAN’25  
+- *Distributed AI Platform for the 6G RAN* — Open-AI RAN'25  
   https://doi.org/10.48550/arXiv.2410.03747  
 - *Taking 5G RAN Analytics and Control to a New Level* — ACM MobiCom’23  
   https://dl.acm.org/doi/10.1145/3570361.3592493  
@@ -76,7 +79,7 @@ https://www.microsoft.com/en-us/research/group/ins/
   https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda/  
 - Built internal tooling to **identify performance bottlenecks** in one of the  
   world’s largest distributed storage systems
-- Participated in **on-call rotation** for mission-critical AWS services
+- Participated in **on-call rotation** for mission-critical AWS services e.g. S3 Object Lamda
 
 **Tech Stack:** Java, Python, Node.js, AWS S3, Lambda, DynamoDB, CloudFormation
 
@@ -142,3 +145,5 @@ University of Luton, UK
 ## ADDITIONAL
 - **UK Indefinite Leave to Remain**
 - Clean UK Driving License
+
+*Last Updated* 2025-12-16
