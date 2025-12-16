@@ -3,8 +3,7 @@
 
 *This is the short version*, the *long version*: https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
 
-Cambridge, UK  
-📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997  
+🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997  
 
 - **LinkedIn:** https://www.linkedin.com/in/doctorlai  
 - **GitHub:** https://github.com/DoctorLai  
@@ -23,12 +22,12 @@ working on Magik Compiler
 - **PhD in Computer Science**, published researcher (ACM MobiCom)
 - **Top-3 Witness  (Block Producer)** on the **Steem Blockchain** (https://steemyy.com).
 
-Proven record of delivering **low-latency, production-grade systems** across  
-**C/C++, eBPF, distributed cloud platforms, and large-scale storage systems**.
+Proven record of delivering **low-latency, production-grade systems** across **C/C++, eBPF, distributed cloud platforms, and large-scale storage systems**.
 
 ---
 
 ## CORE SKILLS
+
 - **Systems & Networking:** C, C++, eBPF, Linux, O-RAN, 4G/5G, RAN, low-latency systems  
 - **Cloud & Distributed Systems:**  
   Azure (AKS, Kubernetes, Functions, Service Bus, CI/CD etc),  
@@ -46,12 +45,12 @@ Proven record of delivering **low-latency, production-grade systems** across
 https://www.microsoft.com/en-us/research/group/ins/
 *July 2021 – Present*
 
-- Build **high-performance software** running on **5G base stations** using  
-  **C/C++, eBPF, and Linux**
+- Build **high-performance software** running on **5G base stations** using **C/C++, eBPF, and Linux**
 - Support researchers in turning ideas **from prototype to production**
 - Contribute to **open-source research platforms** used by the global RAN community
 
 **Selected Open Source Contributions**
+
 - https://github.com/microsoft/jbpf  
 - https://github.com/microsoft/jrt-controller  
 - https://github.com/microsoft/jbpf-protobuf  
@@ -59,6 +58,7 @@ https://www.microsoft.com/en-us/research/group/ins/
 - https://github.com/microsoft/jrtc-apps  
 
 **Publications (Selected)**
+
 - *Distributed AI Platform for the 6G RAN* — Open-AI RAN'25  
   https://doi.org/10.48550/arXiv.2410.03747  
 - *Taking 5G RAN Analytics and Control to a New Level* — ACM MobiCom’23  
@@ -77,8 +77,7 @@ https://www.microsoft.com/en-us/research/group/ins/
   https://aws.amazon.com/s3/features/object-lambda/  
 - Contributed to the **successful global launch**  
   https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda/  
-- Built internal tooling to **identify performance bottlenecks** in one of the  
-  world’s largest distributed storage systems
+- Built internal tooling to **identify performance bottlenecks** in one of the world’s largest distributed storage systems.
 - Participated in **on-call rotation** for mission-critical AWS services e.g. S3 Object Lamda
 
 **Tech Stack:** Java, Python, Node.js, AWS S3, Lambda, DynamoDB, CloudFormation
@@ -101,7 +100,7 @@ https://www.microsoft.com/en-us/research/group/ins/
 ---
 
 ### **Ranplan Wireless — Principal Algorithm Engineer**
-Cambridgeshire, UK  
+**Cambridgeshire, UK**
 *September 2010 – November 2018*  
 https://ranplanwireless.com/
 
@@ -112,15 +111,18 @@ https://ranplanwireless.com/
 ---
 
 ## EDUCATION
+
 **PhD, Computer Science (Wireless & Algorithms)**  
-University of Bedfordshire, UK  
+<*The development of an intelligent ray launching algorithm for wireless network planning*>    
+2010, University of Bedfordshire, UK
 
 **BSc, Computer Science (First Class)**  
-University of Luton, UK  
+2006, University of Luton, UK  
 
 ---
 
 ## PATENTS (SELECTED)
+
 - *Method for Predicting Outdoor 3D Signal Field Strength*  
   PCT/GB2015/053224  
 - *Method for Predicting Indoor 3D Signal Field Strength*  
@@ -129,6 +131,7 @@ University of Luton, UK
 ---
 
 ## BLOCKCHAIN & OPEN SOURCE LEADERSHIP
+
 - **Top-3 Witness (Block Producer)** on the **Steem Blockchain**  
   https://steemyy.com/witness-ranking/
 - Architect and operator of **Steem infrastructure, APIs, explorers, and services**
@@ -137,12 +140,14 @@ University of Luton, UK
 ---
 
 ## HONORS
+
 - **ACM National Olympiad in Informatics (NOI)** — Third Prize  
 - **Marie Curie Fellowship** (EU)
 
 ---
 
 ## ADDITIONAL
+
 - **UK Indefinite Leave to Remain**
 - Clean UK Driving License
 
