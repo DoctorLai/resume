@@ -1,12 +1,12 @@
 # Zhihua Lai, PhD
 **Senior Software Engineer — Systems, Cloud & Networking**
 
-- *This is the short version*
-[https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md)
-- *Long version*
-[https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
+🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997  
+- **Version** 2025-12-17
+- **Source** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md)
+- **The Longer Version**
+[https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
 
 - **LinkedIn:** https://www.linkedin.com/in/doctorlai  
 - **GitHub:** https://github.com/DoctorLai  
@@ -151,7 +151,4 @@ https://ranplanwireless.com/
 
 ## ADDITIONAL
 
-- **UK Indefinite Leave to Remain**
 - Clean UK Driving License
-
-*Last Updated* 2025-12-17
