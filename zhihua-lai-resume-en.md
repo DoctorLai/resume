@@ -1,17 +1,14 @@
 Zhihua Lai (PhD)
 ==========
-Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) (MSRC)
+🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 2025-12-15
-- **Source** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md
-- **Short Version** https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md
-
-A Top 3 Steem Blockchain Witness (Block Producer/Miner), Ex-Amazon/Ex-General-Electric. Passionate for Algorithms, Blockchain and Cloud (ABC).
-
-- MSRC: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
+- **Version** 2025-12-17
+- **Source** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
+- **A Shorter Version** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md)
+- Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 - Linkedin: [https://www.linkedin.com/in/doctorlai/](https://www.linkedin.com/in/doctorlai/)
-- [Github @ DoctorLai](https://github.com/doctorlai)
-- [Github @ DoctorLai-MSRC](https://github.com/doctorlai-msrc)
+- Github: [https://github.com/doctorlai](https://github.com/doctorlai)
+- Github Microsoft: [https://github.com/doctorlai-msrc](https://github.com/doctorlai-msrc)
 
 I am currently a Senior Software Engineering in Intelligent Network System, previously known as [AFO (Azure For Operators)](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/) in the [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) where I contribute and build high performance software (C, C++, eBPF) that run on 5G Base Stations.
 
@@ -101,17 +98,16 @@ Highlights:
 **Marie Curie Experienced Researcher** at ***University of Sheffield, UK***
 2013 to 2015: Development of tools for the design of wireless and energy efficient buildings; in charge of high frequency ray tracing tools. [WIFEEB Grant ID: 286333](https://cordis.europa.eu/project/id/286333)
 
-Awards 
+Awards (Selected)
 ------
 * 2002: ACM - National Olympic Informatics (NOI), Third Prize by China Computer Federation & NOIP Orgranisation Committee
 * 2001: ACM - Fujian Olympic Informatics (FOI), Third Prize by Fujian Education Federation & Fujian Science Orgranisation
     
-Patents
+Patents (Selected)
 -------
 
 * PCT/GB2015/053224, Zhihua Lai etc., Method for Predicting Outdoor Three-Dimensional Space Signal Field Strength By Extended Cost-231-Walfisch-Ikegami Propagation Model, US Patent Application No. 15/522,728, Claimed Filing Date: 27 October 2015.
 * PCT/GB2015/053223, Zhihua Lai etc., Method for Predicting Indoor Three-Dimensional Space Signal Field Strength Using An Outdoor-To-Indoor Propagation Model, US Patent Application No. 15/522,735, Claimed Filing Date: 27 October 2015.
-* *And a few others.*
     
 Education and Awards
 --------------------
@@ -203,7 +199,7 @@ Worth mentioning
 * I develop the [Steem Blockchain Explorer](https://steemyy.com/block.php).
 * I run a [Steem Power Token Rent (Lease Services)](https://steemyy.com/rent-sp.php).
 
-My Other Activities
+Miscellaneous 
 -------------------
 * 2019-11 to 2019-12: I taught the course *Microbit Programming* at weekends in Chesterton Community Colleage (organised by Chinese Family Together and Hacklab Cambridge) to kids (8 yrs+). 
 * I teach my sons programming (and math) videos (700 days+): [https://zhihua-lai.com/teaching/](https://zhihua-lai.com/teaching/)
@@ -213,8 +209,3 @@ My Other Activities
     * [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
     * [Credly](https://www.credly.com/users/zhihua-lai/)
     * [Github: C++ Coding Exercise](https://github.com/doctorlai/cpp-coding-exercise)
-
-> <dr.zhihua.lai [AT] gmail.com> • +44 (0)7939518997 \
-> **Indefinitely Leave to Remain** - address - Cambridge, UK
-> Clean UK Driving License (13 Years +) and Background Checks.
-
