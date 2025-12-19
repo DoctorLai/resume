@@ -3,7 +3,7 @@
 
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR (UK)** 
 
-- **Version** 2025-12-17
+- **Version** 2025-12-19
 - **Source** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md)
 - **The Longer Version**
 [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
@@ -26,6 +26,15 @@ working on Magik Compiler
 - **Top-3 Witness  (Block Producer)** on the **Steem Blockchain** (https://steemyy.com).
 
 Proven record of delivering **low-latency, production-grade systems** across **C/C++, eBPF, distributed cloud platforms, and large-scale storage systems**.
+
+---
+
+## Certifications
+
+| Code | Name                              | Certification Number | Earned-on Date      |
+|--------------------|--------------------------------------------------|----------------------|----------------------|------------|---------------------|
+| AI-900             | Microsoft Azure AI Fundamentals       | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025
+| DP-900             | Microsoft Azure Data Fundamentals     | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | December 19, 2025
 
 ---
 
@@ -149,6 +158,6 @@ https://ranplanwireless.com/
 
 ---
 
-## ADDITIONAL
+## MISCELLANEOUS
 
-- Clean UK Driving License
+- Clean UK Driving License (13 yr+)
