@@ -2,7 +2,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 2025-12-17
+- **Version** 2025-12-19
 - **Source** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
 - **A Shorter Version** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -21,6 +21,14 @@ During the employment with Ranplan Wireless, I have designed and implemented the
 In High School (2002), I have won the third prize on NOI programming contest i.e. National Olympiad Informatics.
 
 I am a [TOP 3 Witness](https://steemyy.com/witness-ranking/) aka Block Producer of the Steem Blockchain. I am beknown for the contributions (infrastructure, tools, API and services) to the Steem Blockchain. See [https://steemyy.com](https://steemyy.com)
+
+Certifications
+--------------
+| Code | Name                              | Certification Number | Earned-on Date      |
+|--------------------|--------------------------------------------------|----------------------|----------------------|------------|---------------------|
+| AI-900             | Microsoft Azure AI Fundamentals       | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025
+| DP-900             | Microsoft Azure Data Fundamentals     | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | December 19, 2025
+
 
 Job Experience
 --------------
@@ -209,3 +217,4 @@ Miscellaneous
     * [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
     * [Credly](https://www.credly.com/users/zhihua-lai/)
     * [Github: C++ Coding Exercise](https://github.com/doctorlai/cpp-coding-exercise)
+* Clean UK Driving License (13 yr+)
