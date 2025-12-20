@@ -24,11 +24,10 @@ I am a [TOP 3 Witness](https://steemyy.com/witness-ranking/) aka Block Producer 
 
 Certifications
 --------------
-| Code | Name                              | Certification Number | Earned-on Date      |
-|--------------------|--------------------------------------------------|----------------------|----------------------|------------|---------------------|
-| AI-900             | Microsoft Azure AI Fundamentals       | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025
-| DP-900             | Microsoft Azure Data Fundamentals     | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | December 19, 2025
-
+| Code  | Name                                   | Certification Number | Earned-on Date    |
+|-------|----------------------------------------|----------------------|-------------------|
+| AI-900 | Microsoft Azure AI Fundamentals        | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025 |
+| DP-900 | Microsoft Azure Data Fundamentals      | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | December 19, 2025 |
 
 Job Experience
 --------------
