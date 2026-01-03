@@ -2,9 +2,9 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 2025-12-19
+- **Version** 2025-Jan-03
 - **Source** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
-- **A Shorter Version** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md)
+- **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
 - Linkedin: [https://www.linkedin.com/in/doctorlai/](https://www.linkedin.com/in/doctorlai/)
 - Github: [https://github.com/doctorlai](https://github.com/doctorlai)
