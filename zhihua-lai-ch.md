@@ -18,6 +18,15 @@
 * Antenna Height Compensation for an Indoor to Outdoor Channel model based on a 2D Finite Difference Model, 29th Progress In Electromagnetics Research Symposium, Marrakesh, Morocco, March 20-23, 2011.
 * A New Deterministic Hybrid Model for Indoor-to-Outdoor Radio Coverage Prediction, The Fifth European Conference on Antennas and Propagation, EUCAP, IEEE, Rome, Italy, April 11-15, 2011, ISBN: 978-88-8202-074-3, p.p.:3771-3774.
 
+微软证书
+--------------------
+| Code   | 领域   | 证书名                                                     | 证书号 | 考过时间     |
+|--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| AI-900 | AI       | Azure AI Fundamentals                                    | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | 2025年12月19日 |
+| DP-900 | Data     | Azure Data Fundamentals                                  | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | 2025年12月19日 |
+| SC-900 | Security | Security, Compliance, and Identity Fundamentals           | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | 2026年1月13日 |
+
+
 开源
 --------------------
 我喜欢Build。
