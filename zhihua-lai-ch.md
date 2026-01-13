@@ -22,9 +22,9 @@
 --------------------
 | Code   | 领域   | 证书名                                                     | 证书号 | 考过时间     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
-| AI-900 | AI       | Azure AI Fundamentals                                    | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | 2025年12月19日 |
-| DP-900 | Data     | Azure Data Fundamentals                                  | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | 2025年12月19日 |
-| SC-900 | Security | Security, Compliance, and Identity Fundamentals           | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | 2026年1月13日 |
+| AI-900 | 人工智能/AI       | Azure AI Fundamentals                                    | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | 2025年12月19日 |
+| DP-900 | 数据/Data     | Azure Data Fundamentals                                  | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | 2025年12月19日 |
+| SC-900 | 安全/Security | Security, Compliance, and Identity Fundamentals           | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | 2026年1月13日 |
 
 
 开源
