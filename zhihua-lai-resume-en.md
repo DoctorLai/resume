@@ -155,17 +155,23 @@ I am a builder and a problem-solver.
 
 DAO (Decentralized Autonomous Organization) Proposals
 ---------------------
-- [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemit.com/sps/@justyy/proposal-fixing-steemd-build-dependencies-in-the-latest-os): I've managed to compile/build the STEEM blockchain (C++) on Modern OS.
-    - [#3707: Enable Basic Tests and Use 4 Theads to Build](https://github.com/steemit/steem/pull/3707)
-    - [#3706: Add Basic Github CI to Build All Dockerfiles](https://github.com/steemit/steem/pull/3706)
-    - [#3705: Fixes and Refactor the Docker files](https://github.com/steemit/steem/pull/3705)
-    - [#3704: Fix test_block_log](https://github.com/steemit/steem/pull/3704)
-    - [#3703: Compile steemd on Debian 13 (Trinx)](https://github.com/steemit/steem/pull/3703)
-    - [#3702: Make Steem Great Again: Support AzureLinux3!](https://github.com/steemit/steem/pull/3702)
-    - [#3701: Make steemd compiled at Ubuntu24.04](https://github.com/steemit/steem/pull/3701)
-    - [#3700: Add Ubuntu 22.04 Support for steemd](https://github.com/steemit/steem/pull/3700)
-    - [#3699: Refactor and Cleanup: Ubuntu20.04 and Remove Ubuntu18.04](https://github.com/steemit/steem/pull/3699)
-Votes: [Proposal: Merging dev changes to main (DAO 98)](https://github.com/steemit/steem/issues/3709)
+I've managed to compile/build the STEEM blockchain (C++) on Modern OS.
+
+- [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemit.com/sps/@justyy/proposal-fixing-steemd-build-dependencies-in-the-latest-os)
+- Votes: [Proposal: Merging dev changes to main (DAO 98)](https://github.com/steemit/steem/issues/3709)
+
+Pull Requests:
+
+  - [#3707: Enable Basic Tests and Use 4 Theads to Build](https://github.com/steemit/steem/pull/3707)
+  - [#3706: Add Basic Github CI to Build All Dockerfiles](https://github.com/steemit/steem/pull/3706)
+  - [#3705: Fixes and Refactor the Docker files](https://github.com/steemit/steem/pull/3705)
+  - [#3704: Fix test_block_log](https://github.com/steemit/steem/pull/3704)
+  - [#3703: Compile steemd on Debian 13 (Trinx)](https://github.com/steemit/steem/pull/3703)
+  - [#3702: Make Steem Great Again: Support AzureLinux3!](https://github.com/steemit/steem/pull/3702)
+  - [#3701: Make steemd compiled at Ubuntu24.04](https://github.com/steemit/steem/pull/3701)
+  - [#3700: Add Ubuntu 22.04 Support for steemd](https://github.com/steemit/steem/pull/3700)
+  - [#3699: Refactor and Cleanup: Ubuntu20.04 and Remove Ubuntu18.04](https://github.com/steemit/steem/pull/3699)
+
       
 
 Selected Publications
