@@ -2,7 +2,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 2025-Jan-16a
+- **Version** 2025-Feb-04
 - **Source** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -150,11 +150,12 @@ I am a builder and a problem-solver.
 - [prime-factorization](https://github.com/doctorlai/prime-factorization)
 - [hex-viewer](https://github.com/doctorlaihex-viewer)
 - [steem-proxy-cloudflare](https://github.com/DoctorLai/steem-proxy-cloudflare)
+- [sokoban-web](https://github.com/DoctorLai/sokoban-web)
 - Steem Blockchain Tools and APIs: [https://steemyy.com](https://steemyy.com)
 
 DAO (Decentralized Autonomous Organization) Proposals
 ---------------------
-- [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemit.com/sps/@justyy/proposal-fixing-steemd-build-dependencies-in-the-latest-os): I've managed to compile the STEEM blockchain (C++) on Modern OS.
+- [Proposal: Fixing Steemd Build Dependencies in the Latest OS #98](https://steemit.com/sps/@justyy/proposal-fixing-steemd-build-dependencies-in-the-latest-os): I've managed to compile/build the STEEM blockchain (C++) on Modern OS.
     - [#3707: Enable Basic Tests and Use 4 Theads to Build](https://github.com/steemit/steem/pull/3707)
     - [#3706: Add Basic Github CI to Build All Dockerfiles](https://github.com/steemit/steem/pull/3706)
     - [#3705: Fixes and Refactor the Docker files](https://github.com/steemit/steem/pull/3705)
@@ -163,7 +164,9 @@ DAO (Decentralized Autonomous Organization) Proposals
     - [#3702: Make Steem Great Again: Support AzureLinux3!](https://github.com/steemit/steem/pull/3702)
     - [#3701: Make steemd compiled at Ubuntu24.04](https://github.com/steemit/steem/pull/3701)
     - [#3700: Add Ubuntu 22.04 Support for steemd](https://github.com/steemit/steem/pull/3700)
-    - [#3699: Refactor and Cleanup: Ubuntu20.04 and Remove Ubuntu18.04](https://github.com/steemit/steem/pull/3699)    
+    - [#3699: Refactor and Cleanup: Ubuntu20.04 and Remove Ubuntu18.04](https://github.com/steemit/steem/pull/3699)
+Votes: [Proposal: Merging dev changes to main (DAO 98)](https://github.com/steemit/steem/issues/3709)
+      
 
 Selected Publications
 ---------------------
