@@ -2,7 +2,7 @@ Zhihua Lai (PhD)
 ==========
 🏠 Cambridge, UK | 📧 dr.zhihua.lai [AT] gmail.com | 📞 +44 (0)7939 518997 | **ILR(UK)**
 
-- **Version** 2025-Feb-04
+- **Version** 2026-Feb-11
 - **Source** [https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md)
 - **A Shorter Version** [https://doctorlai.github.io/](https://doctorlai.github.io/)
 - Microsoft Research Profile: [https://www.microsoft.com/en-us/research/people/zhihualai/](https://www.microsoft.com/en-us/research/people/zhihualai/)
@@ -227,4 +227,5 @@ Miscellaneous
     * [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
     * [Credly](https://www.credly.com/users/zhihua-lai/)
     * [Github: C++ Coding Exercise](https://github.com/doctorlai/cpp-coding-exercise)
+    * I develop the [ExamGPT](https://chatgpt.com/g/g-698ba89e5a1c8191a12605d515f7faeb-exam-gpt)
 * Clean UK Driving License (13 yr+)
