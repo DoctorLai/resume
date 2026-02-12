@@ -67,7 +67,7 @@
 * 我开发和维护了STEEM区块链浏览器 [Steem Block Explorer](https://steemyy.com/steemit-tools/block.php)
 * 我开发和维护了[STEEM代币的出租/租赁服务](https://steemyy.com/steemit-tools/rent-sp.php).
 * 我提交了一份DAO通过并成功完成了工作：[提案：修复最新操作系统中的 Steemd 构建依赖项](https://steemit.com/sps/@justyy/proposal-fixing-steemd-build-dependencies-in-the-latest-os)
-
+* 我开发了AI考试助手：[ExamGPT](https://chatgpt.com/g/g-698ba89e5a1c8191a12605d515f7faeb-exam-gpt)
 ----
 
 > <dr.zhihua.lai [AT] gmail.com> • +44 (0)7939518997 • \
