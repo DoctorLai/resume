@@ -26,11 +26,11 @@ Microsoft Certified
 --------------
 | Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
 |--------|----------|----------------------------------------------------------|----------------------|--------------------|
-| AI-102 | AI       | Azure AI Engineer Associate                              | [25A6FZ-E1AF43](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/272A443F697946E0?sharingId=CA5676385DA92779) | February 20, 2026 |
+| AI-102 | AI       | Azure AI Engineer Associate                              | [25A6FZ-E1AF43](https://learn.microsoft.com/en-us/users/zhihualai/credentials/272a443f697946e0) | February 20, 2026 |
 | AZ-900 | Cloud    | Azure Fundamentals                                       | [B6FAD6-2S7125](https://learn.microsoft.com/en-us/users/zhihualai/credentials/f4fee9b0f71d4223) | January 16, 2026 |
-| SC-900 | Security |Security, Compliance, and Identity Fundamentals           | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | January 13, 2026 |
-| AI-900 | AI       | Azure AI Fundamentals                                    | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025 |
-| DP-900 | Data     | Azure Data Fundamentals                                  | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | December 19, 2025 |
+| SC-900 | Security | Security, Compliance, and Identity Fundamentals          | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | January 13, 2026 |
+| AI-900 | AI       | Azure AI Fundamentals                                    | [7Z9DA9-388866](https://learn.microsoft.com/en-us/users/zhihualai/credentials/6aa7beda646a1c18) | December 19, 2025 |
+| DP-900 | Data     | Azure Data Fundamentals                                  | [CD4244-E236BG](https://learn.microsoft.com/en-us/users/zhihualai/credentials/2a537bbc335f5b23) | December 19, 2025 |
 
 Job Experience
 --------------
