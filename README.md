@@ -3,3 +3,6 @@ My other links:
 - https://codingnbb.com
 - https://zhihua-lai.com
 - https://doctorlai.github.io
+- https://doctorlai.github.io/full
+- https://doctorlai.github.io/ch
+- https://www.credly.com/users/zhihua-lai
